@@ -35,4 +35,4 @@ Pygame is a Python extension library that wraps the [SDL](https://www.libsdl.org
 
 
 ## Thanks
-* [Canberra Girl's Programming Network](https://canberragpn.github.io/) @canberragpn for the Pygame Cheatsheet
+* [Canberra Girl's Programming Network](https://canberragpn.github.io/) [@canberragpn](https://github.com/canberragpn) for the Pygame Cheatsheet
