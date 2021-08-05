@@ -20,7 +20,7 @@ Pygame is a Python extension library that wraps the [SDL](https://www.libsdl.org
     $ pip3-version
 
   '''
-
+ee
 * Install Pygame
   '''
     $ sudo apt-get install python3-pygame
